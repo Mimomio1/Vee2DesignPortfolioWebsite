@@ -1,0 +1,122 @@
+body
+{
+  background-color: black;
+}
+
+a
+{
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+/* About Us Container */
+
+.sqrcontainer
+{
+  background-color: #ffc2e3;
+  height: 1520px;
+  width: 800px;
+  margin-left: 350px;
+  margin-top: -110px;
+  position: relative;
+}
+
+/* Back Button */
+
+.BackHome
+{
+  color: lightgray;
+  position: relative;
+  margin-left: 1200px;
+  font-size: 40px;
+  color: #FFC2E3;
+  text-transform: uppercase;
+}
+
+.BackHome a
+{
+  color: inherit;
+}
+
+.BackHome a:hover
+{
+  color: lightgray;
+}
+
+/* About Vee2design */
+.AboutVee
+{
+  color: darkgray;
+  font-size: 30px;
+  top: 100px;
+  left: -35px;
+  text-align: center;
+  position: relative;
+}
+
+.AboutV
+{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.AboutV a
+{
+  color: black;
+  font-size: 40px;
+  margin-left: 75px;
+  text-align: center;
+  position: relative;
+  font-weight: bold;
+}
+
+.AboutV a:hover
+{
+  color: lightgray;
+  font-size: 40px;
+  margin-left: 75px;
+  text-align: center;
+  position: relative;
+  font-weight: bold;
+}
+
+.Linkedin
+{
+  position: absolute;
+  color: pink;
+  text-align: center;
+  border: 15px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 20px;
+  background-color: black;
+  left: 250px;
+  top: 580px;
+}
+
+.Linkedin a
+{
+  color: #FFC2E3;
+}
+
+.Linkedin:hover
+{
+  background-color: lightgray;
+  border-color: lightgray;
+}
+
+
+.VeeAboutUS
+{
+  color: black;
+  position: absolute;
+  left: 62px;
+}
